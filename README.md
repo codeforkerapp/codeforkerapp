@@ -1,62 +1,74 @@
-# CodeForkerApp
+# CodeForkerApp 🚀
 
-**CodeForkerApp** is an open-source project designed to enhance the productivity of developers by providing easy-to-use tools for various purposes, including terminal utilities, web-based tools, and mobile applications.
+**CodeForkerApp** is an open-source project designed to boost the productivity of developers. It provides easy-to-use tools across multiple platforms, including web, mobile, and terminal utilities, tailored for various development and security tasks.
 
-The project includes several versions of the tools, each optimized for different platforms and use cases. Below is a breakdown of the tools available and their features:
+This project includes multiple versions of the tools, each optimized for different platforms and use cases. Below is a breakdown of the tools available and their unique features:
 
 ---
 
-## Tools
+## 🌐 Tools Overview
 
-### Web Version
-Available on [GitHub Pages](https://codeforkerapp.github.io), the web version provides access to a variety of developer tools directly from your browser.  
-**Limitations**: 
-- Premium tools are not accessible via the web version.
-
-### Mobile Application
-The mobile app provides access to CodeForker tools on Android devices, allowing users to utilize premium tools **for free**.  
-**Limitations**: 
-- Only supports Android devices at the moment. However, users can enjoy free access to premium tools.
-
-### Terminal Tools
-A collection of terminal-based tools designed for advanced users who prefer working in a command-line environment.  
+### **Web Version**  
+Access the web-based version of CodeForkerApp directly via [GitHub Pages](https://codeforkerapp.github.io).  
+**Features**:
+- Quick and easy access to a variety of developer tools directly in your browser.  
 **Limitations**:
-- The system and workflow may vary significantly from the mobile or web versions, but the tools themselves offer many unique functionalities for power users.  
+- Premium tools are not available on the web version.
+
+### **Mobile Application**  
+The Android app provides a mobile-friendly version of CodeForker tools, allowing users to enjoy **free access to premium tools**.  
+**Limitations**:
+- Currently supports Android only, but it offers full access to premium tools at no cost.  
+**Link**: [CodeForkerApp Mobile](https://github.com/codeforkerapp/CodeForkerApp-Setup) (Coming soon for download once ready)
+
+### **Terminal Tools**  
+For advanced users, the terminal version provides powerful tools directly in your command-line interface.  
+**Limitations**:
+- The system and workflow might differ from mobile or web versions, but the tools provide great flexibility and unique functionalities for power users.  
+**Link**: [CodeForker-Terminal](https://github.com/codeforkerapp/CodeForker-Terminal)  
 **Suggested Name**: `CodeForker-Terminal` (You can modify this later according to your preference).
 
 ---
 
-## Features
+## 🔥 Features
 
-- Access multiple developer tools from different platforms.
-- **Free access to premium tools** for mobile users.
-- Web-based tools for quick, easy access.
-- Terminal-based tools for advanced functionality and flexibility.
+- Access a wide range of developer tools across different platforms.
+- **Free premium tools** available for Android users.
+- **Web-based tools** for fast and convenient usage.
+- **Terminal-based tools** for enhanced functionality and customization.
 
 ---
 
-## Installation & Usage
+## 📥 Installation & Usage
 
 1. **Web Version**:  
-   You can access the web version of CodeForkerApp directly via [GitHub Pages](https://codeforkerapp.github.io).
+   Simply visit [GitHub Pages](https://codeforkerapp.github.io) to start using the tools directly in your browser.
 
 2. **Mobile Application**:  
-   The Android app can be installed by downloading from the provided link once available. Stay tuned for updates!
+   The Android app will be available for download soon. Stay tuned for updates on installation instructions! You can check out the setup repository here: [CodeForkerApp-Setup](https://github.com/codeforkerapp/CodeForkerApp-Setup).
 
 3. **Terminal Tools**:  
-   The terminal tools are available via GitHub, and you can clone the repository to access and run the tools locally. Instructions will be provided once the tools are set up.
+   Clone the repository from [CodeForker-Terminal](https://github.com/codeforkerapp/CodeForker-Terminal) and follow the setup instructions provided in the repository to run the tools locally.
+
+4. **CodeForkerApp-Setup**:  
+   For installing the full application, visit [CodeForkerApp-Setup](https://github.com/codeforkerapp/CodeForkerApp-Setup) to get started with the installation process.
 
 ---
 
-## About the Creator
+## 👨‍💻 About the Creator
 
-CodeForkerApp is created by **Wanz Xploit**, a passionate developer focused on building tools that enhance the workflow and productivity of other developers.  
-Feel free to reach out via:
+**Wanz Xploit** is a passionate developer committed to creating tools that make developers’ lives easier and more productive. CodeForkerApp is built to empower both casual and power users alike with robust tools for various use cases.
+
+Feel free to connect with me:
 - Instagram: [@wanz_xploit](https://instagram.com/wanz_xploit)
 - YouTube: [Wanz Xploit](https://youtube.com/c/WanzXploit)
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+> **Disclaimer**: All tools provided are intended for **ethical and legal** use only. The developer is not responsible for any misuse.
