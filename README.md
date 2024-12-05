@@ -26,7 +26,7 @@ For advanced users, the terminal version provides powerful tools directly in you
 **Limitations**:
 - The system and workflow might differ from mobile or web versions, but the tools provide great flexibility and unique functionalities for power users.  
 **Link**: [CodeForker-Terminal](https://github.com/codeforkerapp/CodeForker-Terminal)  
-**Suggested Name**: `CodeForker-Terminal` (You can modify this later according to your preference).
+**Suggested Name**: `CodeForker-Terminal`
 
 ---
 
